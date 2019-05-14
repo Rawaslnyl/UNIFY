@@ -1,0 +1,240 @@
+footer{
+    background-color: #262729;
+    width: 100%;
+}
+footer .footer-inner{
+    width: 1140px;
+    margin: 0 auto;
+}
+footer .footer-inner .foot-up{
+    padding-top: 60px;
+}
+footer .footer-inner .foot-up .product{
+    width: 70%;
+    float: left;
+}
+footer .footer-inner .foot-up .product .pro{
+    width: 475px;
+    float: left;
+}
+footer .footer-inner .foot-up .product .pro h2,footer .footer-inner .foot-up .product .brand h2{
+    display: block;
+    font-size: 20px;
+    line-height: 26px;
+    color:#ddd;
+    padding-bottom: 10px;
+}
+footer .footer-inner .foot-up .product .pro div{
+
+}
+footer .footer-inner .foot-up .product .pro div ul,footer .footer-inner .foot-up .product .brand div ul{
+    float: left;
+    width: 128px;
+    padding-bottom: 10px;
+}
+footer .footer-inner .foot-up .product .pro div ul:nth-child(2){
+    padding-left: 36px;
+    padding-right: 36px;
+}
+footer .footer-inner .foot-up .product .pro div ul li a,footer .footer-inner .foot-up .product .brand div ul li a{
+    color:#999;
+    line-height: 34px;
+}
+footer .footer-inner .foot-up .product .pro div ul li a:hover,footer .footer-inner .foot-up .product .brand div ul li a:hover{
+    color:#3bb18f;
+}
+footer .footer-inner .foot-up .product .brand{
+    float: left;
+}
+footer .footer-inner .foot-up .product .brand div ul:last-child{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+footer .footer-inner .foot-up .contact{
+    width:24%;
+    float: right;
+    color:#999;
+}
+footer .footer-inner .foot-up .contact h2{
+    display: block;
+    line-height: 26px;
+    color:#ddd;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+footer .footer-inner .foot-up .contact i{
+    display: block;
+    padding-right: 16px;
+    float: left;
+    line-height: 26px;
+}
+footer .footer-inner .foot-up .contact span{
+    line-height: 26px;
+    width: 228px;
+    display: block;
+    float: left;
+    padding-bottom: 16px;
+}
+footer .footer-inner .foot-down{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+footer .footer-inner .foot-down .subscribe{
+    width: 30%;
+    float: left;
+}
+footer .footer-inner .foot-down .language{
+    width: 34%;
+    float: left;
+    padding-left: 12%;
+}
+footer .footer-inner .foot-down .follow{
+    width: 24%;
+    float: right;
+}
+footer .footer-inner .foot-down .subscribe h2,footer .footer-inner .foot-down .language h2,footer .footer-inner .foot-down .follow h2{
+    display: block;
+    line-height: 40px;
+    color:#ddd;
+    font-size: 20px;
+}
+footer .footer-inner .foot-down .subscribe div{
+    background-color: #2b2d30;
+    border-radius: 3px;
+}
+footer .footer-inner .foot-down .subscribe div input{
+    width: 259px;
+    padding-left: 20px;
+    line-height: 38px;
+    float: left;
+    outline: none;
+    border-radius: 3px;
+    border:0px;
+    display: block;
+    background-color: #2b2d30;
+}
+footer .footer-inner .foot-down .subscribe div a{
+    width: 52px;
+    display: block;
+    background-color: #3bb18f;
+    color:#fff;
+    text-align: center;
+    font-size:12px;
+    float: right;
+    line-height: 43.6px;
+    border-radius: 3px;
+}
+footer .footer-inner .foot-down .subscribe div a:hover{
+    background-color: #58c7a7;
+}
+footer .footer-inner .foot-down .language >ul >li{
+    float: left;
+    position:relative;
+}
+footer .footer-inner .foot-down .language >ul >li:first-child{
+    padding-right: 30px;
+}
+footer .footer-inner .foot-down .language >ul >li >a{
+    color:#999;
+}
+footer .footer-inner .foot-down .language h2{
+    padding-bottom: 10px;
+}
+footer .footer-inner .foot-down .language >ul >li >a:hover{
+    color:#3bb18f;
+}
+footer .footer-inner .foot-down .language >ul >li >ul >li>a{
+    color:#999;
+}
+footer .footer-inner .foot-down .language >ul >li >ul{
+    border:1px solid #666;
+    border-radius: 3px;
+    width: 200px;
+    position:absolute;
+    padding:10px;
+    top:-144px;
+    z-index: 3;
+    background-color: #2b2d30;
+    display: none;
+
+}
+footer .footer-inner .foot-down .language >ul >li:hover >ul{
+    display: block;
+}
+footer .footer-inner .foot-down .language >ul >li>ul>li:hover {
+    background: rgba(0, 0, 0, 0.03);
+}
+footer .footer-inner .foot-down .language >ul >li >ul>li >a>i{
+    padding-right: 10px;
+}
+footer .footer-inner .foot-down .language >ul >li >ul>li{
+    line-height: 30px;
+}
+footer .footer-inner .foot-down .language >ul >li >ul>li >a>img{
+    padding-right: 10px;
+}
+footer .footer-inner .foot-down .follow ul{
+    height: 36px;
+    overflow: hidden;
+}
+footer .footer-inner .foot-down .follow h2{
+    padding-left: 10px;
+}
+footer .footer-inner .foot-down .follow ul li{
+    float: left;
+}
+footer .footer-inner .foot-down .follow ul li a{
+    display: block;
+    width: 36px;
+    line-height: 36px;
+    text-align: center;
+    color:#999;
+    font-size: 20px;
+    transition: all 0.5s;
+}
+footer .footer-inner .foot-down .follow ul li a i{
+    font-size: 20px;
+}
+footer .footer-inner .foot-down .follow ul li a:last-child{
+    color:#fff;
+    border-radius: 6px;
+}
+footer .footer-inner .foot-down .follow ul li:hover{
+    background-color: #344e86;
+}
+footer .footer-inner .foot-down .follow ul li:hover a{
+    transform: translateY(-36px);
+}
+.copy{
+    border-top: 1px solid #ccc;
+    width: 100%;
+    background-color: #262729;
+}
+.copy .copy-inner{
+    width: 1140px;
+    margin: 0 auto;
+}
+.copy .copy-inner .copyright{
+    float: left;
+    width: 540px;
+    line-height: 100px;
+    color:#999;
+}
+.copy .copy-inner .share{
+    float: right;
+    width: 290px;
+    text-align: right;
+}
+.copy .copy-inner .share ul li{
+    float: left;
+    padding: 0 8px;
+}
+.copy .copy-inner .share ul li a{
+    color:#999;
+    display: block;
+}
+.copy .copy-inner .share ul li a i{
+    font-size: 32px;
+    display: block;
+    line-height: 100px;
+}
